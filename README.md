@@ -42,4 +42,3 @@ Este repositório contém uma série de exercícios desenvolvidos em Java, focad
     - Calcula o volume de uma lata de óleo utilizando a fórmula `VOLUME = 3.14159 * RAIO² * ALTURA`.
 
 ---
->>>>>>> dafd8e2a83f749b49d2bc4118f7cebe814e96cc8
