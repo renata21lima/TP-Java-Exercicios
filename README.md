@@ -18,5 +18,13 @@ Este repositório contém uma série de exercícios desenvolvidos em Java, focad
 8. **Temperatura** – Converte entre Celsius e Fahrenheit.  
 9. **Troca de valores** – Inverte os valores de duas variáveis.  
 10. **Volume de uma lata** – Calcula o volume com base no raio e altura.
-
+11. **Ordem crescente** – Lê 3 valores inteiros e os apresenta em ordem crescente.
+12. **Média escolar** – Lê 4 notas e verifica se o aluno foi aprovado com média ≥ 7.
+13. **Maior número** – Lê 3 números inteiros e mostra o maior deles.
+14. **Maior e menor número** – Lê 5 números inteiros e identifica o maior e o menor valor.
+15. **Par ou ímpar** – Lê um número inteiro e informa se ele é par ou ímpar.
+16. **Cardápio de lanchonete** – Lê o código do item e a quantidade e calcula o valor total.
+17. **Fatorial** – Lê um número e calcula seu fatorial.
+18. **Soma dos cem primeiros números** – Apresenta a soma dos primeiros 100 números inteiros.
+19. **Conversão de Celsius para Fahrenheit** – Converte de 10 em 10 graus Celsius para Fahrenheit, indo de 10 a 100°C.
 ---
