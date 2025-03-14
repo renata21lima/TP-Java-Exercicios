@@ -27,4 +27,8 @@ Este repositório contém uma série de exercícios desenvolvidos em Java, focad
 17. **Fatorial** – Lê um número e calcula seu fatorial.
 18. **Soma dos cem primeiros números** – Apresenta a soma dos primeiros 100 números inteiros.
 19. **Conversão de Celsius para Fahrenheit** – Converte de 10 em 10 graus Celsius para Fahrenheit, indo de 10 a 100°C.
+20. **Coleção de 10 elementos (sem leitura) – Criar um vetor com os elementos de 1 a 10, e mostrar o vetor após a inserção.
+21. **Coleção A e B (Multiplicação) – Criar uma coleção "A" com os elementos de 1 a 10. Criar uma coleção "B" onde os elementos são os de "A" multiplicados por 2. Mostrar ambas as coleções.
+22. **Notas dos alunos – Receber as notas de 5 alunos em duas provas e calcular a média de cada um.
+23. **Fatorial de um vetor – Criar um vetor A de 5 elementos, calcular o fatorial de cada elemento e armazenar em um vetor B. Mostrar ambos os vetores.
 ---
