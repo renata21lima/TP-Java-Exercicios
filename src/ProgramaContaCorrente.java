@@ -1,7 +1,5 @@
 //Fazer um programa para ler os dados de uma Conta corrente. Em seguida, mostrar a tela todos os atributos. Utilize classe e crie 2 métodos.
 
-*
-
 import java.util.Scanner;
 
 class ContaCorrente {
