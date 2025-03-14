@@ -31,4 +31,6 @@ Este repositório contém uma série de exercícios desenvolvidos em Java, focad
 21. **Coleção A e B (Multiplicação) – Criar uma coleção "A" com os elementos de 1 a 10. Criar uma coleção "B" onde os elementos são os de "A" multiplicados por 2. Mostrar ambas as coleções.
 22. **Notas dos alunos – Receber as notas de 5 alunos em duas provas e calcular a média de cada um.
 23. **Fatorial de um vetor – Criar um vetor A de 5 elementos, calcular o fatorial de cada elemento e armazenar em um vetor B. Mostrar ambos os vetores.
+24. **Conta Corrente – Fazer um programa para ler os dados de uma conta corrente. Em seguida, mostrar a tela todos os atributos. Utilize classe e crie 2 métodos.
+25. **Conta Corrente – Fazer um programa para ler os dados de um aluno. Em seguida, mostrar a tela todos os atributos. Utilize classe e crie 2 métodos.
 ---
