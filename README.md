@@ -4,7 +4,7 @@
   <img src="https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo-600x336.png" width="400px" height="auto" alt="Java Logo">
 </p>
 
-Este repositório contém uma série de exercícios desenvolvidos em Java, focados em conceitos básicos de programação, como controle de fluxo, manipulação de variáveis e operações matemáticas.
+Este repositório contém uma série de exercícios desenvolvidos na linguagem Java, focados em conceitos básicos de programação, como controle de fluxo, manipulação de variáveis e operações matemáticas.
 
 ## 📌 Questões
 
